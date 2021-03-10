@@ -5,7 +5,7 @@ Simple application based on Getting Started from https://github.com/NovatecConsu
 See also https://github.com/tobiasschaefer/micronaut-camunda-example-kotlin-gradle for another example
 
 Start the example:
-`./gradlew clean mn:run`
+`./mvnw clean mn:run`
 
 A simple process is deployed automatically.
 
