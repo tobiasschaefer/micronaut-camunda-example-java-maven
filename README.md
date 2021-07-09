@@ -1,6 +1,6 @@
 # micronaut-camunda with Java and Maven
 
-Simple application based on Getting Started from https://github.com/NovatecConsulting/micronaut-camunda-bpm
+Simple application based on Getting Started from https://github.com/camunda-community-hub/micronaut-camunda-bpm
 
 See also https://github.com/tobiasschaefer/micronaut-camunda-example-kotlin-gradle for another example
 
